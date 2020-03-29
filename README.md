@@ -25,7 +25,7 @@ threema_public_key_dumper.py [-h] -id THREEMA_ID [-o OUTPUT]
 ```
 alex@PC:~/Desktop/CCF/Test-Kit$ python3 threema_decrypter.py -k key.dat -db threema4.db
 alex@PC:~/Desktop/CCF/Test-Kit$ python3 artefacts-collector.py  -d data/ch.threema.app -s media/0/Android/data/ch.threema.app
-alex@PC:~/Desktop/CCF/Test-Kit$ python3 threema_public_key_dumper.py -id YXY6U4AH -o pubkey
+alex@PC:~/Desktop/CCF/Test-Kit$ python3 threema_public_key_dumper.py -id EDB5TMPB -o pubkey
 ```
 
 ## Authors
