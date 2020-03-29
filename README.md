@@ -34,4 +34,4 @@ Alexander-OS3
 Hoang-OS3
 
 ## TO-DO
-Implement support for passing the Master Key passphrase to the tool.
+Implement support for passing the Master Key passphrase to the decryption script.
